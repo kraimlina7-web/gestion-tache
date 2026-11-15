@@ -20,7 +20,7 @@ def rechercher_tache():
 
     if not trouve:
         print("Aucune tâche trouvée.")
-print("binevenue chez nous")
+print("Application mise à jour avec succès !")
 while True:
     print("GESTION DES TACHES ")
     print("1. Ajouter une tâche")
